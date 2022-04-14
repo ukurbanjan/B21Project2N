@@ -1,4 +1,4 @@
 public class LogoutUtility {
-    // awesome utility here
+    // awesome utility here about logout
 
 }
